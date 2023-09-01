@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-card-component-FORPf3pr0i)
 - Live Site URL: [Live Site](https://devtetra.github.io/3-column-card-component/)
 
 ## My process
