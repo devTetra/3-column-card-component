@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [ive Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://devtetra.github.io/3-column-card-component/)
 
 ## My process
 
